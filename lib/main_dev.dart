@@ -3,9 +3,9 @@ import 'package:lamma3ly/app/app.dart';
 import 'package:lamma3ly/app/di/injection.dart';
 import 'package:lamma3ly/app/env/env_config.dart';
 
-/// Default entry point — uses the **dev** environment.
+/// Development entry point.
 ///
-/// For production builds, use `main_prod.dart` instead.
+/// Run with: flutter run -t lib/main_dev.dart
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await initDependencies(EnvConfig.dev);

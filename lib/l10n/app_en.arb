@@ -1,0 +1,92 @@
+{
+  "@@locale": "en",
+  "appName": "Lamma3ly",
+  "@appName": { "description": "The application name" },
+
+  "login": "Login",
+  "@login": { "description": "Login button text" },
+
+  "register": "Register",
+  "@register": { "description": "Register button text" },
+
+  "email": "Email",
+  "@email": { "description": "Email field label" },
+
+  "password": "Password",
+  "@password": { "description": "Password field label" },
+
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": { "description": "Confirm password field label" },
+
+  "fullName": "Full Name",
+  "@fullName": { "description": "Full name field label" },
+
+  "phone": "Phone Number",
+  "@phone": { "description": "Phone number field label" },
+
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": { "description": "Forgot password link text" },
+
+  "dontHaveAccount": "Don't have an account?",
+  "@dontHaveAccount": { "description": "Text before register link" },
+
+  "alreadyHaveAccount": "Already have an account?",
+  "@alreadyHaveAccount": { "description": "Text before login link" },
+
+  "logout": "Logout",
+  "@logout": { "description": "Logout button text" },
+
+  "home": "Home",
+  "@home": { "description": "Home tab label" },
+
+  "bookings": "Bookings",
+  "@bookings": { "description": "Bookings tab label" },
+
+  "profile": "Profile",
+  "@profile": { "description": "Profile tab label" },
+
+  "settings": "Settings",
+  "@settings": { "description": "Settings tab label" },
+
+  "jobs": "Jobs",
+  "@jobs": { "description": "Jobs tab label for servicer" },
+
+  "dashboard": "Dashboard",
+  "@dashboard": { "description": "Admin dashboard label" },
+
+  "errorGeneric": "Something went wrong. Please try again.",
+  "@errorGeneric": { "description": "Generic error message" },
+
+  "errorNetwork": "No internet connection. Please check your network.",
+  "@errorNetwork": { "description": "Network error message" },
+
+  "errorUnauthorized": "Session expired. Please log in again.",
+  "@errorUnauthorized": { "description": "401 unauthorized error message" },
+
+  "fieldRequired": "This field is required",
+  "@fieldRequired": { "description": "Validation error for required field" },
+
+  "invalidEmail": "Please enter a valid email",
+  "@invalidEmail": { "description": "Validation error for invalid email" },
+
+  "passwordTooShort": "Password must be at least 8 characters",
+  "@passwordTooShort": { "description": "Validation error for short password" },
+
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": { "description": "Validation error for mismatched passwords" },
+
+  "selectRole": "I am a...",
+  "@selectRole": { "description": "Role selection prompt" },
+
+  "roleCustomer": "Customer",
+  "@roleCustomer": { "description": "Customer role label" },
+
+  "roleServicer": "Service Provider",
+  "@roleServicer": { "description": "Servicer role label" },
+
+  "welcomeBack": "Welcome Back",
+  "@welcomeBack": { "description": "Login screen title" },
+
+  "createAccount": "Create Account",
+  "@createAccount": { "description": "Register screen title" }
+}
