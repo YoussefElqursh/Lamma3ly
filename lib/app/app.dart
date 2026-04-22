@@ -4,9 +4,11 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:lamma3ly/app/di/injection.dart';
 import 'package:lamma3ly/core/theme/app_theme.dart';
 import 'package:lamma3ly/core/localization/locale_cubit.dart';
-import 'package:lamma3ly/l10n/app_localizations.dart';
 import 'package:lamma3ly/routing/app_router.dart';
 import 'package:lamma3ly/shared/auth/presentation/viewmodels/auth_cubit.dart';
+import 'package:lamma3ly/l10n/app_localizations.dart';
+
+
 
 /// Root application widget.
 ///
